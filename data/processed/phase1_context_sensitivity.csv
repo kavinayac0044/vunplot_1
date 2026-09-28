@@ -1,0 +1,13 @@
+cve_id,cvss_score,epss_score,kev_status,asset_type,asset_criticality,contextual_risk_score,risk_change_from_development
+CVE-2025-59287,9.8,0.9998,1,Development System,0.3,85.39,0.0
+CVE-2025-59287,9.8,0.9998,1,Internal Application,0.6,91.39,6.0
+CVE-2025-59287,9.8,0.9998,1,Business Application,0.8,95.39,10.0
+CVE-2025-59287,9.8,0.9998,1,Public-Facing Production,1.0,99.39,14.0
+CVE-2025-68615,9.8,0.4236,0,Development System,0.3,48.11,0.0
+CVE-2025-68615,9.8,0.4236,0,Internal Application,0.6,54.11,6.0
+CVE-2025-68615,9.8,0.4236,0,Business Application,0.8,58.11,10.0
+CVE-2025-68615,9.8,0.4236,0,Public-Facing Production,1.0,62.11,14.0
+CVE-2026-32202,4.3,0.63686,1,Development System,0.3,58.01,0.0
+CVE-2026-32202,4.3,0.63686,1,Internal Application,0.6,64.01,6.0
+CVE-2026-32202,4.3,0.63686,1,Business Application,0.8,68.01,10.0
+CVE-2026-32202,4.3,0.63686,1,Public-Facing Production,1.0,72.01,14.0

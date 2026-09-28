@@ -1,0 +1,4 @@
+baseline,comparison,valid_records,spearman_correlation,p_value
+cvss_only,epss_only,3000,0.43221550791748387,8.031847470230682e-137
+cvss_only,cvss_epss,3000,0.9720819403568912,0.0
+cvss_only,cvss_epss_kev,3000,0.9541268191165652,0.0

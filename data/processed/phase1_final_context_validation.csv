@@ -1,0 +1,4 @@
+cve_id,asset_contexts_tested,development_score,public_facing_score,risk_change,monotonic_increase,validation_status
+CVE-2025-59287,4,85.39,99.39,14.0,True,PASS
+CVE-2025-68615,4,48.11,62.11,14.0,True,PASS
+CVE-2026-32202,4,58.01,72.01,14.0,True,PASS

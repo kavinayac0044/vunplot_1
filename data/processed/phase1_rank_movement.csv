@@ -1,0 +1,4 @@
+comparison,valid_records,mean_absolute_rank_change,median_absolute_rank_change,maximum_absolute_rank_change,moved_up,moved_down,unchanged
+epss_only,3000,722.8936666666667,592.0,2791.0,1454,1542,4
+cvss_epss,3000,90.76966666666667,58.0,2735.0,428,2545,27
+cvss_epss_kev,3000,124.06166666666667,78.0,2735.0,435,2543,22

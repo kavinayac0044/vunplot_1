@@ -1,0 +1,15 @@
+metric,value
+Total vulnerabilities,10.0
+Rank changed,7.0
+Rank unchanged,3.0
+Moved higher,4.0
+Moved lower,3.0
+Rank changed percentage,70.0
+Rank unchanged percentage,30.0
+Average rank change,0.0
+Average absolute rank change,0.8
+Maximum absolute rank change,2.0
+Top-3 overlap,3.0
+Top-3 overlap percentage,100.0
+Top-5 overlap,4.0
+Top-5 overlap percentage,80.0

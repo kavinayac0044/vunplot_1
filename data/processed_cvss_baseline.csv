@@ -1,0 +1,11 @@
+cve_id,description,cvss_score,severity,cwe_id,exploit_available,asset_criticality,internet_exposed,cvss_rank
+VULN-001,Remote code execution vulnerability in web application,9.8,Critical,CWE-94,Yes,Critical,Yes,1
+VULN-002,Authentication bypass vulnerability in application server,9.1,Critical,CWE-287,Yes,High,Yes,2
+VULN-003,SQL injection vulnerability in customer portal,8.8,High,CWE-89,Yes,Critical,Yes,3
+VULN-009,Path traversal vulnerability in file service,8.6,High,CWE-22,Yes,High,Yes,4
+VULN-004,Privilege escalation vulnerability in internal service,8.2,High,CWE-269,No,High,No,5
+VULN-007,Denial of service vulnerability in application service,7.8,High,CWE-400,Yes,Medium,Yes,6
+VULN-005,Cross-site scripting vulnerability in admin dashboard,7.5,High,CWE-79,Yes,Medium,Yes,7
+VULN-006,Information disclosure vulnerability in internal API,6.5,Medium,CWE-200,No,High,No,8
+VULN-008,Improper access control vulnerability in reporting module,6.1,Medium,CWE-862,No,Critical,No,9
+VULN-010,Weak input validation in internal utility,4.3,Medium,CWE-20,No,Low,No,10

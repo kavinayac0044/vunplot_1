@@ -1,0 +1,13 @@
+comparison,top_k,overlap_count,overlap_percentage
+epss_only,10,2,20.0
+epss_only,25,2,8.0
+epss_only,50,12,24.0
+epss_only,100,28,28.000000000000004
+cvss_epss,10,2,20.0
+cvss_epss,25,4,16.0
+cvss_epss,50,14,28.000000000000004
+cvss_epss,100,32,32.0
+cvss_epss_kev,10,2,20.0
+cvss_epss_kev,25,4,16.0
+cvss_epss_kev,50,14,28.000000000000004
+cvss_epss_kev,100,32,32.0

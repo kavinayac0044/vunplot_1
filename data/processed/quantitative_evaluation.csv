@@ -1,0 +1,16 @@
+metric,value
+Total vulnerabilities evaluated,1966.0
+Spearman rank correlation,0.9718
+Spearman p-value,0.0
+Mean absolute rank change,169.58
+Median absolute rank change,142.0
+Maximum absolute rank change,1711.0
+Changed rankings,1961.0
+Percentage of rankings changed,99.75
+Top-10 overlap,0.0
+Top-25 overlap,0.0
+Top-50 overlap,14.0
+Critical vulnerabilities,7.0
+High vulnerabilities,22.0
+Medium vulnerabilities,280.0
+Low vulnerabilities,1657.0

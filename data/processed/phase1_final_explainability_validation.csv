@@ -1,0 +1,7 @@
+metric,value
+Total explanations,3000.0
+Explanation coverage (%),100.0
+Recommendation coverage (%),100.0
+Maximum score verification error,0.01
+Mean score verification error,7e-05
+Rows within 0.01 tolerance (%),99.77

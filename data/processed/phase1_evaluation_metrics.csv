@@ -1,0 +1,5 @@
+strategy,spearman_vs_cvss,mean_absolute_rank_change,median_absolute_rank_change,max_absolute_rank_change,top10_overlap_percentage,top25_overlap_percentage,top50_overlap_percentage,top100_overlap_percentage
+cvss_only,1.0,0.0,0.0,0.0,100.0,100.0,100.0,100.0
+epss_only,0.43221550791748387,722.8936666666667,592.0,2791.0,20.0,8.0,24.0,28.000000000000004
+cvss_epss,0.9720819403568912,90.76966666666667,58.0,2735.0,20.0,16.0,28.000000000000004,32.0
+cvss_epss_kev,0.9541268191165652,124.06166666666667,78.0,2735.0,20.0,16.0,28.000000000000004,32.0

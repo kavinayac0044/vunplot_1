@@ -1,0 +1,11 @@
+cve_id,cvss_rank,cvss_score,final_priority_rank,contextual_risk_score,priority,rank_change
+VULN-001,1,9.8,1,99.0,Critical,0
+VULN-003,3,8.8,2,94.0,Critical,1
+VULN-002,2,9.1,3,90.5,Critical,-1
+VULN-009,4,8.6,4,88.0,High,0
+VULN-007,6,7.8,5,79.0,High,1
+VULN-005,7,7.5,6,77.5,High,1
+VULN-004,5,8.2,7,56.0,Medium,-2
+VULN-008,9,6.1,8,50.5,Medium,1
+VULN-006,8,6.5,9,47.5,Low,-1
+VULN-010,10,4.3,10,26.5,Low,0
